@@ -42,5 +42,11 @@
         "content": "can you describe the project a bit more?",
         "timestamp": "15082024030020",
         "message_id": "mymessageid"
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with the fields home, about and contact",
+        "timestamp": "15082024030121",
+        "message_id": "mymessageid"
     }
 ]
